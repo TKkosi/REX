@@ -18,8 +18,9 @@ const Pricing = () => {
                 <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl sm:leading-none">Pay as you go</h2>
                 <p className="mt-4 text-lg text-gray-500">No contracts, no hidden fees, cancel at any time.</p>
                 <p className="mt-4 text-lg text-gray-500">You only pay for what you use, and you can change or cancel your plan at any time.</p>
-                </div>
-                
+            </div>
+            </div>
+        </div>
     </div>
 
   )
