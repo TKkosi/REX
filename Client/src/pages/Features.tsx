@@ -1,5 +1,5 @@
 import React from "react";
-//import { FaChartLine, FaSearch, FaBell, FaUsers } from "react-icons/fa";
+import { FaChartLine, FaSearch, FaBell, FaUsers } from "react-icons/fa";
 
 const Features: React.FC = () => {
   const features = [
